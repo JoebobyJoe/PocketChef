@@ -1,3 +1,6 @@
+**NOTE**
+This is not the orginal branch that was used to develop PocketChef, just a copy I uploaded to by personal Github account.
+
 **PocketChef**
 ==============
 A phone recipe application
